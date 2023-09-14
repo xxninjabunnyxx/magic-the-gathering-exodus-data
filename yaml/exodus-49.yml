@@ -1,0 +1,112 @@
+---
+object: card
+id: '099da8aa-16b1-4395-8467-1636feb14a8a'
+oracle_id: '008011e2-7b82-4962-af6e-be627112f37f'
+multiverse_ids:
+- 5254
+mtgo_id: 10489
+mtgo_foil_id: 10490
+tcgplayer_id: 4419
+cardmarket_id: 9277
+name: Theft of Dreams
+lang: en
+released_at: '1998-06-15'
+uri: https://api.scryfall.com/cards/099da8aa-16b1-4395-8467-1636feb14a8a
+scryfall_uri: https://scryfall.com/card/exo/49/theft-of-dreams?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.jpg?1587857376
+  normal: https://cards.scryfall.io/normal/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.jpg?1587857376
+  large: https://cards.scryfall.io/large/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.jpg?1587857376
+  png: https://cards.scryfall.io/png/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.png?1587857376
+  art_crop: https://cards.scryfall.io/art_crop/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.jpg?1587857376
+  border_crop: https://cards.scryfall.io/border_crop/front/0/9/099da8aa-16b1-4395-8467-1636feb14a8a.jpg?1587857376
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Draw a card for each tapped creature target opponent controls.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 1401f7af-2e71-476d-9813-991084ed0bb9
+set: exo
+set_name: Exodus
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/1401f7af-2e71-476d-9813-991084ed0bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aexo&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/exo?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/099da8aa-16b1-4395-8467-1636feb14a8a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A008011e2-7b82-4962-af6e-be627112f37f&unique=prints
+collector_number: '49'
+digital: false
+rarity: common
+flavor_text: |-
+  "Volrath stole everything there was of me."
+  —Takara
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Kane Ferguson
+artist_ids:
+- 191620ed-2361-444e-96a6-1fe7ce32ef3b
+illustration_id: ed2bf767-82e1-40b6-abf4-3d55561328df
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9028
+penny_rank: 4803
+prices:
+  usd: '0.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5254
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Theft+of+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Theft+of+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Theft+of+Dreams
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/4419?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Theft+of+Dreams&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/10489?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

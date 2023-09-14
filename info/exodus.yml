@@ -1,0 +1,21 @@
+---
+object: set
+id: 1401f7af-2e71-476d-9813-991084ed0bb9
+code: exo
+mtgo_code: ex
+arena_code: ex
+tcgplayer_id: 40
+name: Exodus
+uri: https://api.scryfall.com/sets/1401f7af-2e71-476d-9813-991084ed0bb9
+scryfall_uri: https://scryfall.com/sets/exo
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aexo&unique=prints
+released_at: '1998-06-15'
+set_type: expansion
+card_count: 143
+printed_size: 143
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: tmp
+block: Tempest
+icon_svg_uri: https://svgs.scryfall.io/sets/exo.svg?1694404800
